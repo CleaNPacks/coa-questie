@@ -1,3 +1,7 @@
+Foreked from Dandena's COA Questie. Some bug fixes and features added by me, but I don't know what I'm doing, so I don't want to add slop code to Dandena's nice tidy project! 
+
+Text below is from him.
+
 # Questie-X for Conquest of Azeroth
 
 [Questie-X](https://github.com/Xurkon/Questie-X), the quest helper (quest givers, objectives and turn-ins on the map and minimap, a quest arrow, a tracker), set up to work on **Conquest of Azeroth** (Ascension-based 3.3.5a) servers. It includes a **CoA quest database generated from a CoA server's own world database**.
